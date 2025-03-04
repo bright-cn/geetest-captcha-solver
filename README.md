@@ -4,7 +4,7 @@
 
 使用 Bright Data 的高级 CAPTCHA 解决技术，轻松绕过 GeeTest 验证码。借助机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保对目标网站的无缝且持续的访问。
 
-Bright Data 的 CAPTCHA Solver 内置于 [**Scraping Browser**](https://www.bright.cn/products/scraping-browser) 和 [**Web Unlocker API**](https://www.bright.cn/products/web-unlocker) 中，为应对最复杂的验证码挑战提供完整的解决方案。
+Bright Data 的 CAPTCHA Solver 内置于 [**抓取浏览器**](https://www.bright.cn/products/scraping-browser) 和 [**网络解锁器 API**](https://www.bright.cn/products/web-unlocker) 中，为应对最复杂的验证码挑战提供完整的解决方案。
 
 ---
 
@@ -56,7 +56,7 @@ Bright Data 的 CAPTCHA Solver 在可靠性和性能方面表现卓越，受到�
 
 ## 工作原理
 
-Bright Data 的 CAPTCHA Solver 集成在 **Scraping Browser** 和 **Web Unlocker** 中，使用时几乎无需额外操作。
+Bright Data 的 CAPTCHA Solver 集成在 **抓取浏览器** 和 **网络解锁器** 中，使用时几乎无需额外操作。
 
 ### 自动解决验证码
 CAPTCHA Solver 会自动实时检测并处理验证码。只要启用该功能，它将从发现到破解整个流程全自动完成。

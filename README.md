@@ -1,6 +1,6 @@
 # GeeTest CAPTCHA 解决方案
 
-[![宣传图](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/geetest-captcha)
+[![宣传图](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/geetest-captcha)
 
 使用 Bright Data 的高级 CAPTCHA 解决技术，轻松绕过 GeeTest 验证码。借助机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保对目标网站的无缝且持续的访问。
 
